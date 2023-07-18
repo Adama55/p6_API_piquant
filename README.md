@@ -35,12 +35,12 @@ Le fontend du Piiquant : [La paritie Frontend ](https://github.com/OpenClassroom
 
 ##### Cloner le Front
 
-1. Cloner le <a href='https://github.com/GuillaumeAubin/PIIQUANTE_API_securisee_Javascript/tree/master/frontend'>frontend</a> de l'application.
+1. Cloner le <a href=''>frontend</a> de l'application.
 2. Installer les dépendances : npm install
 3. Lancer : npm start
 
 ##### Cloner le Back
 
-1. Cloner le <a href='https://github.com/GuillaumeAubin/PIIQUANTE_API_securisee_Javascript/tree/master/backend'>backend</a> de l'application.
+1. Cloner le <a href=''>backend</a> de l'application.
 3. installer les dépendances : npm install
 4. lancer : nodemon server
